@@ -17,7 +17,7 @@ enhance decision-making, and contribute to sustainable development.
 
 Proficiency in Spring Boot, React, Angular, Docker, and PostgreSQL.
 Experience building AI-driven solutions tailored to industrial needs.
-A solid foundation in developing scalable, responsive, and secure applications across platforms.
+A solid foundation in developing scalable, responsive, and secure applications.
 
 🌟 Looking Ahead
 I aim to collaborate with forward-thinking teams to work on impactful projects that combine AI,

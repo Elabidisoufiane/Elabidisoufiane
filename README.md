@@ -1,7 +1,7 @@
 - 👋 Hi, I’m " El ABIDI Soufiane "
   
 🛑🛑🛑🛑🛑🛑🛑🛑
-🎓 Engineering Student | AI & Full-Stack Developer | Innovating in the Industrial Field
+🎓 Engineer | AI & Full-Stack Developer | Innovating in the Industrial Field
 
 I am an engineering student specializing in Artificial Intelligence and Data Science,
 with strong skills in back-end and front-end development. 

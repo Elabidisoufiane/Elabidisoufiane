@@ -3,7 +3,7 @@
 🛑🛑🛑🛑🛑🛑🛑🛑
 🎓 Engineer | AI & Full-Stack Developer | Innovating in the Industrial Field
 
-I am an engineering student specializing in Artificial Intelligence and Data Science,
+I am an engineer specializing in Artificial Intelligence and Data Science,
 with strong skills in back-end and front-end development. 
 My passion lies in developing intelligent systems and applications that optimize
 industrial processes and foster innovation.

@@ -15,7 +15,7 @@ enhance decision-making, and contribute to sustainable development.
 
 💡 What I Bring
 
-Proficiency in Spring Boot, React, Angular, Docker, and MuSQL.
+Proficiency in Spring Boot, React, Angular, Docker, and MySQL.
 Experience building AI-driven solutions tailored to industrial needs.
 A solid foundation in developing scalable, responsive, and secure applications.
 
